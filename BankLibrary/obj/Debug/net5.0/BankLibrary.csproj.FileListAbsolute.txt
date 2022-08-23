@@ -1,0 +1,24 @@
+D:\C# programming\_My test projects\BankApplication\BankLibrary\bin\Debug\net5.0\BankLibrary.deps.json
+D:\C# programming\_My test projects\BankApplication\BankLibrary\bin\Debug\net5.0\BankLibrary.dll
+D:\C# programming\_My test projects\BankApplication\BankLibrary\bin\Debug\net5.0\BankLibrary.pdb
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.AssemblyReference.cache
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.dll
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\refint\BankLibrary.dll
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.pdb
+D:\C# programming\_My test projects\BankApplication\BankLibrary\obj\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\bin\Debug\net5.0\BankLibrary.deps.json
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\bin\Debug\net5.0\BankLibrary.dll
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\bin\Debug\net5.0\BankLibrary.pdb
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\BankLibrary.dll
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\refint\BankLibrary.dll
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\BankLibrary.pdb
+C:\Users\Art\Source\Repos\Art-Hardy\Test_Bank_Application\BankLibrary\obj\Debug\net5.0\ref\BankLibrary.dll

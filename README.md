@@ -1,2 +1,2 @@
 # Test_Bank_Application
-Test Project from Metanit for practise OOP
+Test Project from Metanit for practise OOP.

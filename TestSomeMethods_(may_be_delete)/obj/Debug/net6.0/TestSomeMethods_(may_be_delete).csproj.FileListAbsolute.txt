@@ -1,0 +1,15 @@
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\bin\Debug\net6.0\TestSomeMethods_(may_be_delete).exe
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\bin\Debug\net6.0\TestSomeMethods_(may_be_delete).deps.json
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\bin\Debug\net6.0\TestSomeMethods_(may_be_delete).runtimeconfig.json
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\bin\Debug\net6.0\TestSomeMethods_(may_be_delete).dll
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\bin\Debug\net6.0\ref\TestSomeMethods_(may_be_delete).dll
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\bin\Debug\net6.0\TestSomeMethods_(may_be_delete).pdb
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\TestSomeMethods_(may_be_delete).csproj.AssemblyReference.cache
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\TestSomeMethods_(may_be_delete).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\TestSomeMethods_(may_be_delete).AssemblyInfoInputs.cache
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\TestSomeMethods_(may_be_delete).AssemblyInfo.cs
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\TestSomeMethods_(may_be_delete).csproj.CoreCompileInputs.cache
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\TestSomeMethods_(may_be_delete).dll
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\ref\TestSomeMethods_(may_be_delete).dll
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\TestSomeMethods_(may_be_delete).pdb
+C:\Users\adunaev\source\repos\BankApplication\TestSomeMethods_(may_be_delete)\obj\Debug\net6.0\TestSomeMethods_(may_be_delete).genruntimeconfig.cache
