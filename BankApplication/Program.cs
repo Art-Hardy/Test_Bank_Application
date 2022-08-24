@@ -6,6 +6,7 @@ namespace BankApplication
     class Program
     {
         // TO DO - добавить к этой задаче возможность просмотра конкретностого счета (вывод на экран).
+        // Поменял в настройках гита имя и почту.
         static void Main(string[] args)
         {
             var bank = new Bank<Account>("ЮнитБанк");
