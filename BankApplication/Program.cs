@@ -3,6 +3,9 @@ using BankLibrary;
 
 namespace BankApplication
 {
+    /// <summary>
+    /// https://metanit.com/sharp/tutorial/3.32.php
+    /// </summary>
     class Program
     {
         // TO DO - добавить к этой задаче возможность просмотра конкретностого счета (вывод на экран).
